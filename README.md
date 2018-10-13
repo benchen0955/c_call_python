@@ -8,3 +8,5 @@ pyapi.c
 pyapi
 hello_e.py
 
+數字
+
